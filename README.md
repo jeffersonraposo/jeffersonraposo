@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo! Eu sou o Jefferson Raposo.
+## Olá! Seja bem-vindo! Eu sou o Jefferson Raposo.
 
 
 <div align="center">
