@@ -1,5 +1,5 @@
 <img src = "banner.gif" width = "325px" align = "right" >
-<p align="left">
+<div class="intro" align="left">
   
   ## Olá! Seja bem-vindo ao meu GitHub! ❤️<br/> Eu sou o Jefferson Raposo 🤓
 
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/jefferson-raposo/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" />
   </a>
-</p>
+</div>
 
 ---
 
