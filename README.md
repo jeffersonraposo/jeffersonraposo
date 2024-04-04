@@ -30,7 +30,7 @@
   • Proatividade </br>
   • Resolução de problemas</br>
   • Trabalho em equipe </br>
-  • Gestão do tempo </br>
+  • Organização </br>
   • Adaptabilidade </br>
 </div>
 
