@@ -5,9 +5,9 @@
   ## Olá! Seja bem-vindo ao meu GitHub! ❤️  
   Eu sou o Jefferson Raposo 🤓
 
-  Sou desenvolvedor fullstack com foco em frontend e backend web.  
-  Apaixonado por tecnologia, busco criar experiências digitais envolventes, intuitivas e eficientes.  
-  Atualmente, atuo principalmente com **React**, **TypeScript**, **Tailwind CSS**, **PHP** e **Laravel**.
+  Sou desenvolvedor backend com foco em APIs robustas e escaláveis.  
+  Tenho experiência com **Laravel**, **PHP**, **MySQL**, **Docker** e integração com serviços externos.  
+  Atualmente também utilizo **React** e **Tailwind CSS** para criar interfaces modernas quando necessário.
 
   <a href="https://www.linkedin.com/in/jefferson-raposo/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" />
@@ -17,15 +17,6 @@
 ---
 
 <div>
-  <h3><strong>Hard skills 🧑🏻‍💻</strong></h3> 
-  • HTML </br>
-  • CSS </br>
-  • JavaScript </br>
-  • TypeScript </br>
-  • React </br>
-  • Tailwind CSS </br>
-  • PHP </br>
-  • Laravel </br></br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -34,8 +25,24 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-</div>
 
+  ---
+  ### 💻 Backend
+  - PHP, Laravel, MySQL, SQLite  
+  - APIs RESTful, Autenticação com Sanctum  
+  - Webhooks, Notificações, Queues, Docker  
+  
+  ### 🖥️ Frontend (suporte)
+  - React, JavaScript, TypeScript, Tailwind CSS  
+  
+  ### 🔧 Ferramentas
+  - Git, GitHub, Postman, Insomnia, Docker, Composer
+    
+  ---
+
+ 
+</div>
+  
 <div>
   <h3><strong>Soft skills</strong></h3>
   • Comunicação </br>
