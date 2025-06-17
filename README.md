@@ -1,61 +1,59 @@
-<img src="banner.gif" width="325px" align="right">
+<img src="banner.gif" width="325px" align="right" />
 
-<div class="intro" align="left">
-  
-  ## Olá! Seja bem-vindo ao meu GitHub! ❤️  
-  Eu sou o Jefferson Raposo 🤓
+## 👋 Olá! Seja bem-vindo ao meu GitHub!
 
-  Sou desenvolvedor backend com foco em APIs robustas e escaláveis.  
-  Tenho experiência com **Laravel**, **PHP**, **MySQL**, **Docker** e integração com serviços externos.  
-  Atualmente também utilizo **React** e **Tailwind CSS** para criar interfaces modernas quando necessário.
+Sou **Jefferson Raposo**, Especialista em Infraestrutura e Segurança da Informação.  
+Tenho como foco a **automação de processos usando Python**, análise e correlação de logs, implantação de **SIEM** (como Wazuh), além de atuar diretamente na gestão e segurança da infraestrutura de TI.
 
-  <a href="https://www.linkedin.com/in/jefferson-raposo/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" />
-  </a>
+---
+
+### 🛠️ Tecnologias e áreas que aplico no dia a dia:
+
+- 🔒 **Segurança da Informação**: SIEM, Wazuh, análise de logs, políticas de segurança, LGPD  
+- 🐍 **Python**: automações, inventário de ativos, alertas, relatórios  
+- 🌐 **Infraestrutura**: servidores Linux e Windows, VPN, firewall, redes, backups  
+- 🧰 **Ferramentas**: Docker, Git, Zabbix, Postman, VSCode, Grafana.  
+
+---
+
+### 🚀 Atualmente estudando e aplicando:
+- Python para automações em segurança  
+- SIEM e centralização de logs (Wazuh)  
+- Detecção de ameaças e resposta a incidentes  
+- Análise de tráfego com Scapy e tcpdump  
+- Segurança ofensiva (em fase de exploração)  
+
+---
+
+### 🔗 Conecte-se comigo:
+
+<a href="https://www.linkedin.com/in/jefferson-raposo/" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+### 💻 Tecnologias principais
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="40" title="Zabbix" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" title="Grafana" />
 </div>
 
 ---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+### 🧠 Soft Skills
 
-  ---
-  ### 💻 Backend
-  - PHP, Laravel, MySQL, SQLite  
-  - APIs RESTful, Autenticação com Sanctum  
-  - Webhooks, Notificações, Queues, Docker  
-  
-  ### 🖥️ Frontend (suporte)
-  - React, JavaScript, TypeScript, Tailwind CSS  
-  
-  ### 🔧 Ferramentas
-  - Git, GitHub, Postman, Insomnia, Docker, Composer
-    
-  ---
-
- 
-</div>
-  
-<div>
-  <h3><strong>Soft skills</strong></h3>
-  • Comunicação </br>
-  • Proatividade </br>
-  • Resolução de problemas </br>
-  • Trabalho em equipe </br>
-  • Organização </br>
-  • Adaptabilidade </br>
-</div>
+- Comunicação • Proatividade • Resolução de problemas  
+- Organização • Trabalho em equipe • Adaptabilidade  
 
 ---
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonraposo&layout=compact&langs_count=16&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersonraposo&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonraposo&layout=compact&langs_count=10&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersonraposo&show_icons=true&theme=dark" />
 </div>
