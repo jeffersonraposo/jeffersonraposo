@@ -1,9 +1,8 @@
 <img src="banner.gif" width="325px" align="right" />
 
 ## 👋 Olá! Seja bem-vindo ao meu GitHub!
-
-Sou **Jefferson Raposo**, Especialista em Infraestrutura e Segurança da Informação.  
-Tenho como foco a **automação de processos usando Python**, análise e correlação de logs, implantação de **SIEM** (como Wazuh), além de atuar diretamente na gestão e segurança da infraestrutura de TI.
+  
+Sou **Jefferson Raposo**, profissional de Segurança da Informação, focado em automação com Python para segurança defensiva e ofensiva, análise de logs e gestão de infraestrutura de TI.
 
 ---
 
@@ -12,7 +11,7 @@ Tenho como foco a **automação de processos usando Python**, análise e correla
 - 🔒 **Segurança da Informação**: SIEM, Wazuh, análise de logs, políticas de segurança, LGPD  
 - 🐍 **Python**: automações, inventário de ativos, alertas, relatórios  
 - 🌐 **Infraestrutura**: servidores Linux e Windows, VPN, firewall, redes, backups  
-- 🧰 **Ferramentas**: Docker, Git, Zabbix, Postman, VSCode, Grafana.  
+- 🧰 **Ferramentas**: Docker, Git, Zabbix, Grafana.  
 
 ---
 
