@@ -1,8 +1,7 @@
 <img src="banner.gif" width="325px" align="right" />
 
-## 👋 Olá! Seja bem-vindo ao meu GitHub!
   
-Sou **Jefferson Raposo**, profissional de Segurança da Informação, focado em automação com Python para segurança defensiva e ofensiva, análise de logs e gestão de infraestrutura de TI.
+Olá! Sou **Jefferson Raposo**, profissional de Segurança da Informação, focado em automação com Python para segurança defensiva e ofensiva, análise de logs e gestão de infraestrutura de TI.
 
 ---
 
