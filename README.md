@@ -2,9 +2,9 @@
 
 ## 👋 Olá, eu sou o Jefferson Raposo
 
-Atuo com **cloud, automação e segurança**, focado em construir soluções que funcionam no mundo real.
+Atuo com **cloud, automação e cibersegurança**, focado em construir soluções que funcionam no mundo real.
 
-Aqui compartilho projetos, experimentos e estudos sobre **AWS, infraestrutura em cloud, automação e segurança aplicada**, sempre com uma abordagem mão na massa.
+Aqui compartilho projetos, experimentos e estudos sobre **AWS, infraestrutura em cloud, automação e cibersegurança**, sempre com uma abordagem mão na massa.
 
 
 ---
