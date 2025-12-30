@@ -31,10 +31,10 @@ Aqui compartilho projetos, experimentos e estudos sobre **AWS, infraestrutura em
 
 ## 🌐 Onde me encontrar
 
-<a href="https://raposo.dev.br" target="_blank">
+<a href="https://raposo.dev.br" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-raposo.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/jefferson-raposo/" target="_blank">
+<a href="https://www.linkedin.com/in/jefferson-raposo/" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
