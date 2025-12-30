@@ -1,53 +1,55 @@
 <img src="banner.gif" width="325px" align="right" />
 
-  
-Olá! Sou **Jefferson Raposo**, profissional de Segurança da Informação, focado em automação com Python para segurança defensiva e ofensiva, análise de logs e gestão de infraestrutura de TI.
+## 👋 Olá, eu sou o Jefferson Raposo
+
+Atuo com **cloud, automação e segurança**, focado em construir soluções que funcionam no mundo real.
+
+Aqui compartilho projetos, experimentos e estudos sobre **AWS, infraestrutura em cloud, automação e segurança aplicada**, sempre com uma abordagem mão na massa.
+
 
 ---
 
-### 🛠️ Tecnologias e áreas que aplico no dia a dia:
+## ⚙️ No que eu trabalho
 
-- 🔒 **Segurança da Informação**: SIEM, Wazuh, análise de logs, políticas de segurança, LGPD  
-- 🐍 **Python**: automações, inventário de ativos, alertas, relatórios  
-- 🌐 **Infraestrutura**: servidores Linux e Windows, VPN, firewall, redes, backups  
-- 🧰 **Ferramentas**: Docker, Git, Zabbix, Grafana.  
-
----
-
-### 🚀 Atualmente estudando e aplicando:
-- Python para automações em segurança  
-- SIEM e centralização de logs (Wazuh)  
-- Detecção de ameaças e resposta a incidentes  
-- Análise de tráfego com Scapy e tcpdump  
-- Segurança ofensiva (em fase de exploração)  
+- ☁️ **Cloud & AWS**: IAM, EC2, redes, controle de custos e automações  
+- 🐍 **Python**: scripts, ferramentas e automações para infraestrutura e produtividade  
+- 🔐 **Segurança aplicada**: logs, monitoramento, controle de acesso e segurança em cloud  
+- 🧱 **Infraestrutura**: Linux, containers, redes, monitoramento e observabilidade  
+- 📊 **Observabilidade**: Grafana, Zabbix, métricas e logs  
 
 ---
 
-### 🔗 Conecte-se comigo:
+## 🚀 Atualmente estudando e construindo
 
+- Automação em cloud com Python  
+- Arquitetura e boas práticas na AWS  
+- Monitoramento e observabilidade  
+- Organização de estudos e carreira tech  
+- Transformar estudos em projetos reais  
+
+---
+
+## 🌐 Onde me encontrar
+
+<a href="https://raposo.dev.br" target="_blank">
+  <img src="https://img.shields.io/badge/-raposo.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/jefferson-raposo/" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---
 
-### 💻 Tecnologias principais
+## 🛠️ Tecnologias principais
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" title="Linux" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="40" title="Zabbix" />
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" title="Grafana" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS" />
 </div>
-
----
-
-### 🧠 Soft Skills
-
-- Comunicação • Proatividade • Resolução de problemas  
-- Organização • Trabalho em equipe • Adaptabilidade  
 
 ---
 
