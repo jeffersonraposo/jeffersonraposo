@@ -51,9 +51,4 @@ Aqui compartilho projetos, experimentos e estudos sobre **AWS, infraestrutura em
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" title="AWS" />
 </div>
 
----
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonraposo&layout=compact&langs_count=10&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jeffersonraposo&show_icons=true&theme=dark" />
-</div>
